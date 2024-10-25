@@ -1,0 +1,5 @@
+.custom-gradient-bg {
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+      linear-gradient(0deg, rgba(32, 197, 251, 0) 59.7%, rgba(32, 197, 251, 0.2) 100%);
+    border-radius: 32px; /* Same rounded style you were using */
+  }
